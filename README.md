@@ -1,6 +1,6 @@
 # Todo-app.py
 A task management To-Do app that helps users create, update, and organize their daily tasks.
-# To-Do App  -  Python Command Line Project
+# Todo-App.py  -  Python Command Line Project
 A command-line to-do list application built with Python.
 ## Features- Add new tasks- View all tasks- Mark tasks as completed- Delete tasks- Saves tasks to file so data is not lost on exit
 ## How to Run
